@@ -1,0 +1,101 @@
+{
+    "sections":[
+        "consonants","vowels","nouns","verbs"
+    ],
+    "levels":{
+        "consonants":{
+            "level1":{"question":"Find 5 words with\n a consonant in it.","lb_id":"CgkIltnNgYUfEAIQAA"},
+            "level2":{"question":"Find 5 words starts\n with a consonant.","lb_id":"CgkIltnNgYUfEAIQAQ"},
+
+            "level3":{"question":"How many consonants\n are there in this word","word":"elephant","answerChoices":["4","8","5","7"],"correctAnswer":"5","type":"multichoice"},
+
+            "level4":{"question":"Find 5 words ends\n with a consonant."},
+            "level5":{"question":"Find 5 words with two\n consonants in it."},
+
+            "level6":{"question":"Pick all of the consonants in the given word\n click to pick.","word":"rhinoceros","correctAnswer":"rhncrs","type":"selectletters"},
+
+            "level7":{"question":"Find 5 words starts and\n ends with a consonant."},
+            "level8":{"question":"Find 5 Three letter words\n starts with a consonant."},
+
+            "level9":{"question":"Pick all of the consonants in the given word\n click to pick.","word":"pineapple","correctAnswer":"pnppl","type":"selectletters"},
+
+            "level10":{"question":"Find 5 words with two consecutive\n consonants in it."},
+            "level11":{"question":"Find 5 words starts with\n the consonant 'B'."},
+
+            "level12":{"question":"Find all 'Z' letters \n in the given sentance, click the word","sentance":"The zoo was amazing, especially the lizards and zebra.","correctAnswer":["zoo","lizards","zebra."],"type":"selectwords"},
+
+            "level13":{"question":"Find 5 Four letter words starts\n and ends with a consonant."},
+            "level14":{"question":"Find 9 words contains\n the consonant 'C'."},
+
+            "level15":{"question":"Pick all of the consonants in English Alphabet\n click to pick.","word":"ABCDEFGHIJKLMNOPQRSTUVWXYZ","correctAnswer":"BCDFGHJKLMNPQRSTVWXYZ","type":"selectletters"}
+        },
+        "vowels":{
+            "level1":{"question":"Find 5 words with\n a vowel in it."},
+            "level2":{"question":"Find 5 words starts\n with a vowel."},
+            
+            "level3":{"question":"How many vowels\n in this word","word":"dinosaur","answerChoices":["4","3","5","6"],"correctAnswer":"4","type":"multichoice"},
+            
+            "level4":{"question":"Find 5 words ends\n with a vowel."},
+            "level5":{"question":"Find 5 words with\n two vowels in it."},
+           
+            "level6":{"question":"Find the 'A' letter vowels in this\n sentance, click the word","sentance":"can you bake me acake ?","correctAnswer":["can","bake","acake"],"type":"selectwords"},
+            
+            "level7":{"question":"Find 5 Three letter words\n starts with a vowel."},
+            "level8":{"question":"Find 5 words with two consecutive\n vowels in it."},
+            
+            "level9":{"question":"Find the 'E' letter vowels in this\n sentance, click the word","sentance":"pete plans to see her again soon","correctAnswer":["pete","see","her"],"type":"selectwords"},
+            
+            "level10":{"question":"Find 5 words starts with\n the vowel 'A'."},
+            "level11":{"question":"Find 5 words with two same consecutive\n vowels in it. Example: FOOD."},
+
+            "level12":{"question":"Find the 'I' letter vowels in this\n sentance, click the word","sentance":"take a right turn at the next inter - section.","correctAnswer":["right","inter","section."],"type":"selectwords"},
+            
+            
+            "level13":{"question":"Find 5 words contains the vowel\n set 'EA' in it. Example: EAT."},
+            "level14":{"question":"Find 9 words contains\n the vowel 'I'."},
+
+            "level15":{"question":"Find the 'O' letter vowels in this\n sentance, click the word","sentance":"herbert was so excited, he started jumping up and down.","correctAnswer":["so","down."],"type":"selectwords"}
+        },
+        "nouns":{
+            "level1":{"question":"Find the 5 words from\n nouns"},
+            "level2":{"question":"Find the 5 words, with\n 3 letters word from nouns","lettersLength":"3"},
+            "level3":{"question":"How many nouns\n in this sentance","sentance":"She lifts weights,Do you think the Red Sox will win?","correctAnswer":["she","Red","Sox."],"type":"selectwords"},
+            "level4":{"question":"Find the 5 words, with\n 4 letters word from nouns","lettersLength":"4"},
+            "level5":{"question":"Find the 5 words, with\n 5 letters word from nouns","lettersLength":"5"},
+            "level6":{"question":"How many nouns\n in this sentance","sentance":"The dance was held on Saturday, Your courage is inspiring,","correctAnswer":["dance","courage"],"type":"selectwords"},
+            "level7":{"question":"Find the 5 words, with\n 6 letters word from nouns","lettersLength":"6"},
+            "level8":{"question":"Find the 9 words from\n nouns"},
+            "level9":{"question":"How many nouns\n in this sentance","sentance":"Portland is a cool city, The windows need to be open,","correctAnswer":["Portland","windows"],"type":"selectwords"}
+            },
+        "verbs":{
+            "level1":{"question":"Find the 5 words from\n verbs"},
+            "level2":{"question":"Find the 5 words, with\n 3 letters word from verbs","lettersLength":"3"},
+            "level3":{"question":"How many verbs\n in this sentance","sentance":"My mother makes delicious cakes.","correctAnswer":["delicious"],"type":"selectwords"},
+            "level4":{"question":"Find the 5 words, with\n 4 letters word from verbs","lettersLength":"4"},
+            "level5":{"question":"Find the 5 words, with\n 5 letters word from verbs","lettersLength":"5"},
+            "level6":{"question":"How many verbs\n in this sentance","sentance":"The teacher writes on the blackboard, The singer sings the song","correctAnswer":["writes","sings"],"type":"selectwords"},
+            "level7":{"question":"Find the 5 words, with\n 6 letters word from verbs","lettersLength":"6"},
+            "level8":{"question":"Find the 9 words from\n verbs"},
+            "level9":{"question":"How many verbs\n in this sentance","sentance":"He can run four miles in 30 minutes, The boy solved the puzzle in a few minutes.","correctAnswer":["run","solved"],"type":"selectwords"}
+            }
+    },
+    "assetPacks":{
+        "Intro": {
+            "images": [
+              {
+                "key": "help_button",
+                "path": "assets/new assets/bclogo-blue.png"
+              }
+            ],
+            "atlas": [],
+            "audio": [        
+              {
+                "key": "background_music",
+                "path": "assets/new assets/music/background_music.mp3"
+              }
+              
+            ]
+          }
+    }
+        
+}

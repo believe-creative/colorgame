@@ -1,0 +1,307 @@
+{
+    "sections":[
+        "consonants","vowels","nouns","verbs"
+    ],
+    "levels":{
+        "consonants":{
+            "nofolevels":15,
+            "next":"vowels",
+            "level1":{"question":"Find 5 words with\n a consonant in it.","lb_id":"CgkIltnNgYUfEAIQAA"},
+            "level2":{"question":"Find 5 words starts\n with a consonant.","lb_id":"CgkIltnNgYUfEAIQAQ"},
+
+            "level3":{"question":"How many consonants\n are there in this word","lb_id":"CgkIltnNgYUfEAIQAw","questions":[
+              {
+                "word":"cicada","answerChoices":["4","3","5","2"],"correctAnswer":"3"
+              },
+              {
+                "word":"grasshopper","answerChoices":["4","8","5","7"],"correctAnswer":"8"
+              },
+              {
+                "word":"cricket","answerChoices":["4","8","5","7"],"correctAnswer":"5"
+              },
+              {
+                "word":"Beetle","answerChoices":["4","3","2","5"],"correctAnswer":"3"
+              },
+              {
+                "word":"butterfly","answerChoices":["4","8","5","7"],"correctAnswer":"7"
+              }
+            ],"word":"elephant","answerChoices":["4","8","5","7"],"correctAnswer":"5","type":"multichoice"},
+
+            "level4":{"question":"Find 5 words ends\n with a consonant.","lb_id":"CgkIltnNgYUfEAIQBA"},
+            "level5":{"question":"Find 5 words with two\n consonants in it.","lb_id":"CgkIltnNgYUfEAIQBQ"},
+
+            "level6":{"question":"Pick all of the consonants in\n the given word. click to pick.","lb_id":"CgkIltnNgYUfEAIQBg","questions":[
+              {
+                "word":"rhinoceros","answerChoices":["4","3","5","2"],"correctAnswer":"rhncrs"
+              },
+              {
+                "word":"leopard","answerChoices":["4","8","5","7"],"correctAnswer":"lprd"
+              },
+              {
+                "word":"panther","answerChoices":["4","8","5","7"],"correctAnswer":"pnthr"
+              },
+              {
+                "word":"elephant","answerChoices":["4","3","2","5"],"correctAnswer":"lphnt"
+              },
+              {
+                "word":"crocodile","answerChoices":["4","8","5","7"],"correctAnswer":"crcdl"
+              }
+            ],"word":"rhinoceros","correctAnswer":"rhncrs","type":"selectletters"},
+
+            "level7":{"question":"Find 5 words starts and\n ends with a consonant.","lb_id":"CgkIltnNgYUfEAIQBw"},
+            "level8":{"question":"Find 5 Three letter words\n starts with a consonant.","lb_id":"CgkIltnNgYUfEAIQCA"},
+            "level9":{"question":"Pick all of the consonants in\n the given word. click to pick.","lb_id":"CgkIltnNgYUfEAIQCQ","questions":[
+              {
+                "word":"pineapple","answerChoices":["4","3","5","2"],"correctAnswer":"pnppl"
+              },
+              {
+                "word":"grapefruit","answerChoices":["4","8","5","7"],"correctAnswer":"grpfrt"
+              },
+              {
+                "word":"pomegranate","answerChoices":["4","8","5","7"],"correctAnswer":"pmgrnt"
+              },
+              {
+                "word":"strawberry","answerChoices":["4","3","2","5"],"correctAnswer":"strwbrry"
+              },
+              {
+                "word":"banana","answerChoices":["4","8","5","7"],"correctAnswer":"bnn"
+              }
+            ],"word":"pineapple","correctAnswer":"pnppl","type":"selectletters"},
+
+            "level10":{"question":"Find 5 words with two\n consecutive consonants in it.","lb_id":"CgkIltnNgYUfEAIQCg"},
+            "level11":{"question":"Find 5 words starts with\n the consonant 'B' or 'C'.","lb_id":"CgkIltnNgYUfEAIQCw"},
+
+            "level12":{"question":"Find all '__' letters in the\n given sentance, click the word","lb_id":"CgkIltnNgYUfEAIQDA","questions":[
+              {
+                "question":"Find all 'Z' letters in the\n given sentance, click the word","sentance":"The zoo was amazing, especially the lizards and zebra.","correctAnswer":["zoo","amazing,","lizards","zebra."],"letter":"z"
+              },
+              {
+                "question":"Find all 'M' letters in the\n given sentance, click the word","sentance":"The English word museum comes from the Latin word museums or musea.","correctAnswer":["museum","comes","from","museums","musea"],"letter":"m"
+              },
+              {
+                "question":"Find all 'R' letters in the\n given sentance, click the word","sentance":"Amusement parks can have rides like roller coasters and ferris wheel.","correctAnswer":["parks","rides","roller","coasters","ferris"],"letter":"r"
+              }
+            ],"sentance":"The zoo was amazing, especially the lizards and zebra.","correctAnswer":["zoo","amazing,","lizards","zebra."],"type":"selectwords"},
+
+            "level13":{"question":"Find 5 Four letter words starts\n and ends with a consonant.","lb_id":"CgkIltnNgYUfEAIQDQ"},
+            "level14":{"question":"Find 9 words contains\n the consonant 'T' or 'D'.","lb_id":"CgkIltnNgYUfEAIQDg"},
+
+            "level15":{"question":"Pick all of the consonants in\n English Alphabet click to pick.","lb_id":"CgkIltnNgYUfEAIQDw","questions":[
+              {
+                "word":"ABCDEFGHIJKLMNOPQRSTUVWXYZ","answerChoices":["4","3","5","2"],"correctAnswer":"BCDFGHJKLMNPQRSTVWXYZ"
+              }
+            ],"word":"ABCDEFGHIJKLMNOPQRSTUVWXYZ","correctAnswer":"BCDFGHJKLMNPQRSTVWXYZ","type":"selectletters"}
+        },
+        "vowels":{
+          "nofolevels":15,
+          "next":"nouns",
+            "level1":{"question":"Find 5 words with\n a vowel in it."},
+            "level2":{"question":"Find 5 words starts\n with a vowel."},
+            
+            "level3":{"question":"How many vowels\n in this word","questions":[
+              {
+                "word":"dragon","answerChoices":["4","3","5","2"],"correctAnswer":"3"
+              },
+              {
+                "word":"unicorn","answerChoices":["4","8","5","7"],"correctAnswer":"8"
+              },
+              {
+                "word":"griffin","answerChoices":["4","8","5","7"],"correctAnswer":"5"
+              },
+              {
+                "word":"phoenix","answerChoices":["4","3","2","5"],"correctAnswer":"3"
+              },
+              {
+                "word":"pegasus","answerChoices":["4","8","5","7"],"correctAnswer":"7"
+              }
+            ],"word":"dinosaur","answerChoices":["4","3","5","6"],"correctAnswer":"4","type":"multichoice"},
+            
+            "level4":{"question":"Find 5 words ends\n with a vowel."},
+            "level5":{"question":"Find 5 words with\n two vowels in it."},
+           
+            "level6":{"question":"Find the 'A' letter vowels in this\n sentance, click the word","questions":[
+              {
+                "question":"Find all 'A' letters in the\n given sentance, click the word","sentance":"can you bake a cake?","correctAnswer":["can","bake","a","cake?"],"letter":"a"
+              },
+              {
+                "question":"Find all 'E' letters in the\n given sentance, click the word","sentance":"she put the gingerbread man in the cookie jar","correctAnswer":["she","gingerbread","cookie"],"letter":"e"
+              },
+              {
+                "question":"Find all 'E' letters in the\n given sentance, click the word","sentance":"her baby sister bother her for candy.","correctAnswer":["her","sister","bother","her"],"letter":"r"
+              },
+              {
+                "question":"Find all 'O' letters in the\n given sentance, click the word","sentance":"i broke the chocolate into halves here's your half.","correctAnswer":["broke","chocolate","into","your"],"letter":"r"
+              }
+            ],"sentance":"can you bake a cake?","correctAnswer":["can","bake","a","cake?"],"type":"selectwords"},
+            
+            "level7":{"question":"Find 5 Three letter words\n starts with a vowel."},
+            "level8":{"question":"Find 5 words with two consecutive\n vowels in it."},
+            
+            "level9":{"question":"Pick all of the vowels in\n the given word. click to pick.","questions":[
+              {
+                "word":"ambulance","answerChoices":["4","3","5","2"],"correctAnswer":"auae"
+              },
+              {
+                "word":"scooter","answerChoices":["4","8","5","7"],"correctAnswer":"ooe"
+              },
+              {
+                "word":"helicopter","answerChoices":["4","8","5","7"],"correctAnswer":"eioe"
+              },
+              {
+                "word":"motorcycle","answerChoices":["4","3","2","5"],"correctAnswer":"ooe"
+              },
+              {
+                "word":"tractor","answerChoices":["4","8","5","7"],"correctAnswer":"ao"
+              }
+            ],"type":"selectletters"},
+            
+            "level10":{"question":"Find 5 words starts with\n the vowel 'A'."},
+            "level11":{"question":"Find 5 words with two same consecutive\n vowels in it. Example: FOOD."},
+
+            "level12":{"question":"Find the 'I' letter vowels in this\n sentance, click the word","questions":[
+              {
+                "word":"pineapple","answerChoices":["4","3","5","2"],"correctAnswer":"pnppl"
+              },
+              {
+                "word":"grapefruit","answerChoices":["4","8","5","7"],"correctAnswer":"grpfrt"
+              },
+              {
+                "word":"pomegranate","answerChoices":["4","8","5","7"],"correctAnswer":"pmgrnt"
+              },
+              {
+                "word":"strawberry","answerChoices":["4","3","2","5"],"correctAnswer":"strwbrry"
+              },
+              {
+                "word":"banana","answerChoices":["4","8","5","7"],"correctAnswer":"bnn"
+              }
+            ],"sentance":"take a right turn at the next inter - section.","correctAnswer":["right","inter","section."],"type":"selectwords"},
+            
+            
+            "level13":{"question":"Find 5 words contains the vowel\n set 'EA' in it. Example: EAT."},
+            "level14":{"question":"Find 9 words contains\n the vowel 'I'."},
+
+            "level15":{"question":"Find the 'O' letter vowels in this\n sentance, click the word","sentance":"herbert was so excited, he started jumping up and down.","correctAnswer":["so","down."],"type":"selectwords"}
+        },
+        "nouns":{
+          "nofolevels":9,
+          "next":"verbs",
+            "level1":{"question":"Find the 5 words from\n nouns"},
+            "level2":{"question":"Find the 5 words, with\n 3 letters word from nouns","lettersLength":"3"},
+            "level3":{"question":"How many common nouns\n in this sentance",
+              "questions":[
+                {"sentance":"Cathy loves the weekends in the country .","correctAnswer":["weekends","country"],"type":"selectwords"},
+                {"sentance":"We enjoy swimming after breakfast.","correctAnswer":["swimming","breakfast."],"type":"selectwords"},
+                {"sentance":"The cup fell and broke.","correctAnswer":["cup"],"type":"selectwords"},
+                {"sentance":"John loves watching the cat playing with the pink yarn.","correctAnswer":["John","cat","yarn."],"type":"selectwords"},
+                {"sentance":"She lifts weights,Do you think the Red Sox will win?","correctAnswer":["she","Red","Sox."],"type":"selectwords"}
+              ],
+              "sentance":"She lifts weights,Do you think the Red Sox will win?","correctAnswer":["she","Red","Sox."],"type":"selectwords"},
+            "level4":{"question":"Find the 5 words, with\n 4 letters word from nouns","lettersLength":"4"},
+            "level5":{"question":"Find the 5 words, with\n 5 letters word from nouns","lettersLength":"5"},
+            "level6":{"question":"How many proper nouns\n in this sentance",
+              "questions":[
+                {"sentance":"Emily loved spending time with her Aunt Nancy in Paris.","correctAnswer":["Emily","Aunt","Nancy","Paris"],"type":"selectwords"},
+                {"sentance":"Buick and Jeep are two important carmakers.","correctAnswer":["Buick","Jeep"],"type":"selectwords"},
+                {"sentance":"We visited Lake Erie, which separates the UnitedStates and Canada.","correctAnswer":["Lake","Erie,","UnitedStates","Canada."],"type":"selectwords"},
+                {"sentance":"London is on the bank of the river Thames","correctAnswer":["London","river"],"type":"selectwords"},
+                {"sentance":"Paris is the capital of France","correctAnswer":["Paris","France"],"type":"selectwords"}
+              ],
+              "sentance":"The dance was held on Saturday, Your courage is inspiring,","correctAnswer":["dance","courage"],"type":"selectwords"},
+            "level7":{"question":"Find the 5 words, with\n 6 letters word from nouns","lettersLength":"6"},
+            "level8":{"question":"Find the 9 words from\n nouns"},
+            "level9":{"question":"How many an abstract and\n concrete nouns in this sentance",
+              "questions":[
+                {"sentance":"The person threw the rock across the yard.","correctAnswer":["person","rock","yard."],"type":"selectwords"},
+                {"sentance":"My dog, Oreo, jumped in the air and caught the ball!","correctAnswer":["My","dog,","Oreo,","air","ball!"],"type":"selectwords"},
+                {"sentance":"Can you smell the soup, John?","correctAnswer":["you","soup,","John"],"type":"selectwords"},
+                {"sentance":"Love and friendship are equally important.","correctAnswer":["Love","friendship"],"type":"selectwords"},
+                {"sentance":"Beauty is in the eye of the beholder.","correctAnswer":["Beauty"],"type":"selectwords"}
+              ],
+              "sentance":"Portland is a cool city, The windows need to be open,","correctAnswer":["Portland","windows"],"type":"selectwords"}
+          },   
+        "verbs":{
+          "nofolevels":9,
+            "level1":{"question":"Find the 5 words from\n verbs"},
+            "level2":{"question":"Find the 5 words, with\n 3 letters word from verbs","lettersLength":"3"},
+            "level3":{"question":"How many verbs\n in this sentance",
+              "questions":[
+                {"sentance":"He is begging to save her mother’s life in front of the doctor.","correctAnswer":["is","begging"],"type":"selectwords"},
+                {"sentance":"David is writing a novel about wildlife heritage.","correctAnswer":["is","writing"],"type":"selectwords"},
+                {"sentance":"You are coming right now at the seminar.","correctAnswer":["are","coming"],"type":"selectwords"},
+                {"sentance":"She is smiling in front of the audience.","correctAnswer":["is","smiling"],"type":"selectwords"},
+                {"sentance":"My mother makes delicious cakes.","correctAnswer":["delicious"],"type":"selectwords"}
+              ],"sentance":"My mother makes delicious cakes.","correctAnswer":["delicious"],"type":"selectwords"},
+            "level4":{"question":"Find the 5 words, with\n 4 letters word from verbs","lettersLength":"4"},
+            "level5":{"question":"Find the 5 words, with\n 5 letters word from verbs","lettersLength":"5"},
+            "level6":{"question":"How many verbs\n in this sentance",
+              "questions":[
+                {"sentance":"He apologized to the teachers.","correctAnswer":["apologized"],"type":"selectwords"},
+                {"sentance":"He left this bag here and went outside.","correctAnswer":["left","went"],"type":"selectwords"},
+                {"sentance":"He is sitting next to you.","correctAnswer":["is","sitting"],"type":"selectwords"},
+                {"sentance":"Everyone likes to watch a magic show.","correctAnswer":["likes"],"type":"selectwords"},
+                {"sentance":"You are always trying to jump over the wall.","correctAnswer":["trying"],"type":"selectwords"}
+              ],"sentance":"My mother makes delicious cakes.","correctAnswer":["delicious"],"type":"selectwords"},
+            "level7":{"question":"Find the 5 words, with\n 6 letters word from verbs","lettersLength":"6"},
+            "level8":{"question":"Find the 9 words from\n verbs"},
+            "level9":{"question":"How many verbs\n in this sentance",
+              "questions":[
+                {"sentance":"We are knowing each other.","correctAnswer":["are","knowing"],"type":"selectwords"},
+                {"sentance":"Alcohol causes Cancer.","correctAnswer":["causes"],"type":"selectwords"},
+                {"sentance":"He is riding his new bike all-day.","correctAnswer":["is","riding"],"type":"selectwords"},
+                {"sentance":"We are participating in the cultural program.","correctAnswer":["are","participating"],"type":"selectwords"},
+                {"sentance":"That Aeroplane was flying above the clouds.","correctAnswer":["was", "flying"],"type":"selectwords"}
+              ],"sentance":"My mother makes delicious cakes.","correctAnswer":["delicious"],"type":"selectwords"}
+            }
+    },
+    "assetPacks":{
+        "Intro": {
+            "images": [
+              {
+                "key": "help_button",
+                "path": "assets/new assets/bclogo-blue.png"
+              }
+            ],
+            "atlas": [],
+            "audio": [        
+              {
+                "key": "background_music",
+                "path": "assets/new assets/music/background_music.mp3"
+              },
+              {
+                "key": "countdown1",
+                "path": "assets/new assets/sounds/countdown1.wav"
+              },
+              {
+                "key": "go",
+                "path": "assets/new assets/sounds/go.wav"
+              },
+              {
+                "key": "button",
+                "path": "assets/new assets/sounds/button.mp3"
+              },
+              {
+                "key": "complete",
+                "path": "assets/new assets/sounds/complete.wav"
+              },
+              {
+                "key": "correct",
+                "path": "assets/new assets/sounds/correct.wav"
+              },
+              {
+                "key": "correctbox",
+                "path": "assets/new assets/sounds/correctbox.wav"
+              },
+              {
+                "key": "fail",
+                "path": "assets/new assets/sounds/fail.wav"
+              },
+              {
+                "key": "wrongbox",
+                "path": "assets/new assets/sounds/wrongbox.wav"
+              }
+              
+            ]
+          }
+    }
+        
+}
